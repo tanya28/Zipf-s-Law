@@ -1,0 +1,8 @@
+A famous linguist named George Kingsley Zipf gave a law which relates to the frequency of occurrence of English words and is known as Zipf's law. This law says that he frequency of any word is inversely proportional to its rank in the frequency table. Thus the most frequent word will occur approximately twice as often as the second most frequent word, three times as often as the third most frequent word, etc. (Use any resource to learn about Zipf's law).
+
+Now write a program in C to do the following:
+
+i) Read some text from a file(it would be a big file having more than 100000 english words, you are allowed to use text/doc/docx format only for this). Break the read file into words.
+ii) Now count the number of occurrences of each word you have read.
+iii) Rank the words in order of their frequency.
+iv)Plot word frequency versus word rank and compare the results with Zipf's law. There is no programming in this (iv)th part. You can use excel or any other tools for this.
